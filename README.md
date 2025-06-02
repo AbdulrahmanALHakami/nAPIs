@@ -1,5 +1,5 @@
 # nAPIs
-**MachONetScan** is a lightweight static analysis tool written in C++ designed to scan iOS application binaries (Mach-O files) for **network-related APIs** and **external server endpoints (URLs)**.  
+ is a lightweight static analysis tool written in C++ designed to scan iOS application binaries (Mach-O files) for **network-related APIs** and **external server endpoints (URLs)**.  
 This tool is ideal for mobile security researchers, reverse engineers, and bug bounty hunters who want to identify potential API connections and backend servers used by an iOS app — **without executing the application.**
 
 Author:Abdulrahman AL-Hakami
