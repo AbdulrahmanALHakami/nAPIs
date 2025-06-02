@@ -26,5 +26,4 @@ Author:Abdulrahman AL-Hakami
 ##  Usage
 
 ```bash
-g++ macho_network_scanner.cpp -o macho_net_scan
 ./nAPIs <path_to_MachO_binary>
